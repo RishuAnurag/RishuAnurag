@@ -74,7 +74,7 @@ I'm a passionate MSc Forensic Science student specializing in **cyber forensics 
 | **Simulation** | Cisco Packet Tracer | Network topology design |
 | **Forensics** | FTK Imager | Digital evidence acquisition |
 
-[![Tools](https://img.shields.io/badge/Tools-Kali%20Linux%20Wireshark%20Nmap%20Burp%20Suite-blue?style=flat&logo=tools&logoColor=white)](https://github.com/anuragkumar)
+[![Tools](https://img.shields.io/badge/Tools-Kali%20Linux%20Wireshark%20Nmap%20Burp%20Suite-blue?style=flat&logo=tools&logoColor=white)](https://github.com/RishuAnurag/)
 
 ---
 
@@ -82,9 +82,9 @@ I'm a passionate MSc Forensic Science student specializing in **cyber forensics 
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuragkumar)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/anurag-kumar-9b39b5267/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anurag@example.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anuragkumar)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishuAnurag/)
 
 **🌍 Location**: Guwahati, Assam, India  
 **📱 Let's connect for cyber forensics collaborations!**
