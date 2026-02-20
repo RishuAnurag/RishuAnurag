@@ -43,7 +43,7 @@ I'm a passionate MSc Forensic Science student specializing in **cyber forensics 
 | **Penetration Testing** | Nmap scanning, OpenVAS vulnerability assessment, DVWA web app testing |
 | **Network Security** | Wireshark packet analysis, network topology design, Cisco Packet Tracer |
 | **Incident Response** | Cyber incident handling, password cracking & brute force analysis |
-| **Documentation** | Forensic report writing, research methodology, dissertation work |
+| **Documentation** | Forensic report writing, research methodology |
 
 ![Skills](https://skillicons.dev/icons?i=kali,burpsuite,wireshark,nmap,openvas,cisco)
 
